@@ -83,8 +83,3 @@ Warning: Potential memory leak detected! (3 malloc calls, 1 free calls)
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Points:
-- **Repository URL:** Replace `https://github.com/yourusername/memory-leak-detector.git` with the correct URL of your repository.
-- **License:** The license section is using the MIT License, but feel free to update it based on your actual project license.
